@@ -11,4 +11,4 @@
 
 2. Start the server
 
-   node run dev
+   npm run dev
